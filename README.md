@@ -7,7 +7,7 @@
 ```
 The HttpUtils License (HttpUtils)
 
-Copyright (c) 2015 MapGuideTest
+Copyright (c) 2015 HttpUtils
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
